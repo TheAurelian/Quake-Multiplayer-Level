@@ -1,2 +1,3 @@
 # Quake-Multiplayer-Level
-Quake multiplayer level 
+Competitive multiplayer level for 2-4 players for Quake.
+
