@@ -1,0 +1,87 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: Chaos.map
+Output file: Chaos.bsp
+
+---- LoadMapFile ----
+*** WARNING 06: No info_player_deathmatch entities in level
+          426 faces
+           71 brushes
+            3 entities
+            2 unique texnames
+           16 texinfo
+
+Opened WAD: C:/Users/lukea/Desktop/Quake-Multiplayer-Level/wads/START.WAD
+Opened WAD: C:/Users/lukea/Desktop/Quake-Multiplayer-Level/wads/prototype_1_2.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+           71 brushes
+           83 planes
+---- CSGFaces ----
+          426 brushfaces
+          480 csgfaces
+          454 mergedfaces
+---- SolidBSP ----
+          635 split nodes
+          275 solid leafs
+          340 empty leafs
+           21 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         1375 leaffaces
+         1309 nodefaces
+---- Portalize ----
+          361 vis leafs
+          361 vis clusters
+          942 vis portals
+---- FillOutside ----
+          130 outleafs
+---- MergeAll ----
+          462 mergefaces
+---- SolidBSP ----
+          277 split nodes
+          125 solid leafs
+          136 empty leafs
+           17 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+          861 leaffaces
+          721 nodefaces
+---- Portalize ----
+          153 vis leafs
+          153 vis clusters
+          412 vis portals
+---- Tjunc ----
+          524 world edges
+         2250 edge points
+          506 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+*** WARNING 16: Texture __TB_empty not found
+---- WriteBSPFile ----
+Wrote Chaos.bsp
+          165 planes             3300
+          877 vertexes          10524
+          277 nodes              6648
+           12 texinfo             480
+          721 faces             14420
+         1220 clipnodes          9760
+          154 leafs              4312
+          861 marksurfaces       1722
+         3390 surfedges         13560
+         1696 edges              6784
+            2 textures           5940
+              lightdata             0
+              visdata               0
+              entdata             292
+
+0.428 seconds elapsed
+Peak memory usage: 5168442 (4.9M)
