@@ -1775,12 +1775,12 @@
 // entity 40
 {
 "classname" "light"
-"origin" "936 -296 232"
+"origin" "936 -280 232"
 }
 // entity 41
 {
 "classname" "light"
-"origin" "-360 40 232"
+"origin" "-360 24 232"
 }
 // entity 42
 {
