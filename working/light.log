@@ -4,30 +4,30 @@ running with 12 threads
 LoadBSPFile: 'Chaos.bsp'
 BSP is version 29
 --- LoadEntities ---
-3 entities read, 0 are lights.
+92 entities read, 56 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	679 solid faces
+	628 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
+SetupLights: 56 initial lights
+SetupLights: 56 after surface lights
+SetupLights: 56 after jittering
 --- EstimateLightVisibility ---
-
-Final count: 0 lights 0 suns in use.
+0....1....2....3....4....5....6....7....8....9....
+Final count: 56 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 0
+lightdatasize: 30758
 0 switchable light styles (32 max)
 Writing Chaos.bsp as BSP version 29
-0.236 seconds elapsed
+0.116 seconds elapsed
 
 stats:
-0.000000 lights tested, 0.000000 hits per sample point
+4.533968 lights tested, 2.675214 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
