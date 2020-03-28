@@ -1,17 +1,17 @@
 ---- vis / ericw-tools v0.18.1 ----
-running with 12 threads
+running with 8 threads
 testlevel = 4
 LoadBSPFile: 'Chaos.bsp'
 BSP is version 29
-   134 leafs
-   241 portals
+   142 leafs
+   256 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 44
+average leafs visible: 45
 c_noclip: 0
-c_chains: 12114
-visdatasize:2129  compressed from 2278
+c_chains: 13730
+visdatasize:2399  compressed from 2556
 Writing Chaos.bsp as BSP version 29
   0.1 seconds elapsed

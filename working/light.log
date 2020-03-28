@@ -1,33 +1,33 @@
 ---- light / ericw-tools v0.18.1 ----
 Raytracing backend: Embree
-running with 12 threads
+running with 8 threads
 LoadBSPFile: 'Chaos.bsp'
 BSP is version 29
 --- LoadEntities ---
-92 entities read, 56 are lights.
+94 entities read, 57 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	628 solid faces
+	678 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 56 initial lights
-SetupLights: 56 after surface lights
-SetupLights: 56 after jittering
+SetupLights: 57 initial lights
+SetupLights: 57 after surface lights
+SetupLights: 57 after jittering
 --- EstimateLightVisibility ---
 0....1....2....3....4....5....6....7....8....9....
-Final count: 56 lights 0 suns in use.
+Final count: 57 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 30758
+lightdatasize: 31666
 0 switchable light styles (32 max)
 Writing Chaos.bsp as BSP version 29
-0.116 seconds elapsed
+0.099 seconds elapsed
 
 stats:
-4.533968 lights tested, 2.675214 hits per sample point
+4.675761 lights tested, 2.741204 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
