@@ -11,7 +11,7 @@ Competitive free-for-all multiplayer level for 2-4 players for Quake.
 
 See the project [wiki](https://github.com/TheAurelian/Quake-Multiplayer-Level/wiki) for more info 
 
-* Copyright / Permissions *
+Copyright / Permissions
 
 Authors MAY use the contents of this file as a base for
 modification or reuse.  Permissions have been obtained from original 
