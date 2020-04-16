@@ -4,67 +4,78 @@ running with 8 threads
 LoadBSPFile: 'Chaos.bsp'
 BSP is version 29
 --- LoadEntities ---
-WARNING: entity at (448 -48 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (288 -16 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (608 -16 176) (light) has empty key/value "property 1" ""
+WARNING: entity at (608 -80 176) (light) has empty key/value "property 1" ""
 WARNING: entity at (824 56 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (680 -128 192) (light) has empty key/value "property 1" ""
-WARNING: entity at (568 184 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (104 384 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (-8 384 176) (light) has empty key/value "property 1" ""
-WARNING: entity at (-168 296 208) (light) has empty key/value "property 1" ""
-WARNING: entity at (-168 56 208) (light) has empty key/value "property 1" ""
-WARNING: entity at (128 -48 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (-32 -16 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (288 96 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (208 264 112) (light) has empty key/value "property 1" ""
+WARNING: entity at (520 136 104) (light) has empty key/value "property 1" ""
+WARNING: entity at (184 384 128) (light) has empty key/value "property 1" ""
+WARNING: entity at (-88 384 192) (light) has empty key/value "property 1" ""
+WARNING: entity at (288 160 120) (light) has empty key/value "property 1" ""
 WARNING: entity at (208 -128 -24) (light) has empty key/value "property 1" ""
 WARNING: entity at (360 -128 -24) (light) has empty key/value "property 1" ""
 WARNING: entity at (288 -48 -24) (light) has empty key/value "property 1" ""
-WARNING: entity at (680 -128 192) (light) has empty key/value "property 1" ""
 WARNING: entity at (824 56 120) (light) has empty key/value "angle" ""
 WARNING: entity at (824 56 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (608 -16 176) (light) has empty key/value "property 1" ""
-WARNING: entity at (448 -48 144) (light) has empty key/value "angle" ""
-WARNING: entity at (448 -48 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (288 -16 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (128 -48 144) (light) has empty key/value "angle" ""
-WARNING: entity at (128 -48 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (-32 -16 120) (light) has empty key/value "property 1" ""
+WARNING: entity at (448 -48 96) (light) has empty key/value "angle" ""
+WARNING: entity at (448 -48 96) (light) has empty key/value "property 1" ""
 WARNING: entity at (-168 56 208) (light) has empty key/value "angle" ""
 WARNING: entity at (-168 56 208) (light) has empty key/value "property 1" ""
 WARNING: entity at (-168 296 208) (light) has empty key/value "angle" ""
 WARNING: entity at (-168 296 208) (light) has empty key/value "property 1" ""
-WARNING: entity at (-8 384 176) (light) has empty key/value "angle" ""
-WARNING: entity at (-8 384 176) (light) has empty key/value "property 1" ""
 WARNING: entity at (208 264 112) (light) has empty key/value "property 1" ""
-WARNING: entity at (104 384 144) (light) has empty key/value "angle" ""
-WARNING: entity at (104 384 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (288 96 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (568 184 120) (light) has empty key/value "angle" ""
-WARNING: entity at (568 184 120) (light) has empty key/value "property 1" ""
 WARNING: entity at (288 -48 -24) (light) has empty key/value "property 1" ""
-WARNING: entity at (-104 -128 192) (light) has empty key/value "property 1" ""
-WARNING: entity at (-248 -312 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (-32 -240 176) (light) has empty key/value "property 1" ""
-WARNING: entity at (128 -208 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (288 -240 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (448 -208 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (608 -240 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (744 -312 208) (light) has empty key/value "property 1" ""
-WARNING: entity at (744 -552 208) (light) has empty key/value "property 1" ""
-WARNING: entity at (584 -640 176) (light) has empty key/value "property 1" ""
+WARNING: entity at (128 -208 96) (light) has empty key/value "property 1" ""
+WARNING: entity at (288 -128 120) (light) has empty key/value "property 1" ""
+WARNING: entity at (608 -176 184) (light) has empty key/value "property 1" ""
+WARNING: entity at (664 -640 192) (light) has empty key/value "property 1" ""
 WARNING: entity at (368 -520 112) (light) has empty key/value "property 1" ""
-WARNING: entity at (472 -640 144) (light) has empty key/value "property 1" ""
-WARNING: entity at (8 -440 120) (light) has empty key/value "property 1" ""
+WARNING: entity at (408 -640 128) (light) has empty key/value "property 1" ""
+WARNING: entity at (56 -392 104) (light) has empty key/value "property 1" ""
 WARNING: entity at (288 -208 -24) (light) has empty key/value "property 1" ""
 WARNING: entity at (360 40 -24) (light) has empty key/value "property 1" ""
 WARNING: entity at (208 40 -24) (light) has empty key/value "property 1" ""
 WARNING: entity at (360 -296 -24) (light) has empty key/value "property 1" ""
 WARNING: entity at (208 -296 -24) (light) has empty key/value "property 1" ""
-WARNING: entity at (288 -352 120) (light) has empty key/value "property 1" ""
-WARNING: entity at (288 -352 -8) (light) has empty key/value "property 1" ""
-WARNING: entity at (288 96 -8) (light) has empty key/value "property 1" ""
+WARNING: entity at (288 -416 120) (light) has empty key/value "property 1" ""
+WARNING: entity at (288 -416 -8) (light) has empty key/value "property 1" ""
+WARNING: entity at (288 160 -8) (light) has empty key/value "property 1" ""
+WARNING: entity at (520 136 -40) (light) has empty key/value "property 1" ""
+WARNING: entity at (520 -40 -40) (light) has empty key/value "property 1" ""
+WARNING: entity at (56 -216 -40) (light) has empty key/value "property 1" ""
+WARNING: entity at (-344 -8 208) (light) has empty key/value "angle" ""
+WARNING: entity at (-344 -8 208) (light) has empty key/value "property 1" ""
+WARNING: entity at (-216 440 224) (light) has empty key/value "property 1" ""
+WARNING: entity at (360 432 112) (light) has empty key/value "property 1" ""
+WARNING: entity at (216 -688 112) (light) has empty key/value "property 1" ""
+WARNING: entity at (56 -536 104) (light) has empty key/value "property 1" ""
+WARNING: entity at (-88 -392 104) (light) has empty key/value "property 1" ""
+WARNING: entity at (664 136 104) (light) has empty key/value "angle" ""
+WARNING: entity at (664 136 104) (light) has empty key/value "property 1" ""
+WARNING: entity at (520 248 104) (light) has empty key/value "property 1" ""
+WARNING: entity at (-408 -392 200) (light) has empty key/value "property 1" ""
+WARNING: entity at (-248 -312 120) (light) has empty key/value "property 1" ""
+WARNING: entity at (-32 -80 184) (light) has empty key/value "property 1" ""
+WARNING: entity at (-32 -176 176) (light) has empty key/value "property 1" ""
+WARNING: entity at (-24 -128 112) (light) has empty key/value "property 1" ""
+WARNING: entity at (600 -128 112) (light) has empty key/value "property 1" ""
+WARNING: entity at (448 -208 96) (light) has empty key/value "property 1" ""
+WARNING: entity at (744 -312 208) (light) has empty key/value "property 1" ""
+WARNING: entity at (744 -552 208) (light) has empty key/value "property 1" ""
+WARNING: entity at (792 -696 208) (light) has empty key/value "property 1" ""
+WARNING: entity at (920 -248 208) (light) has empty key/value "property 1" ""
+WARNING: entity at (128 -48 96) (light) has empty key/value "property 1" ""
+WARNING: entity at (384 -48 128) (light) has empty key/value "angle" ""
+WARNING: entity at (384 -48 128) (light) has empty key/value "property 1" ""
+WARNING: entity at (496 -48 144) (light) has empty key/value "angle" ""
+WARNING: entity at (496 -48 144) (light) has empty key/value "property 1" ""
+WARNING: entity at (496 -208 144) (light) has empty key/value "angle" ""
+WARNING: entity at (496 -208 144) (light) has empty key/value "property 1" ""
+WARNING: entity at (384 -208 128) (light) has empty key/value "angle" ""
+WARNING: entity at (384 -208 128) (light) has empty key/value "property 1" ""
+WARNING: entity at (80 -208 144) (light) has empty key/value "property 1" ""
+WARNING: entity at (192 -208 128) (light) has empty key/value "property 1" ""
+WARNING: entity at (80 -48 144) (light) has empty key/value "property 1" ""
+WARNING: entity at (192 -48 128) (light) has empty key/value "property 1" ""
+WARNING: entity at (56 -392 -40) (light) has empty key/value "property 1" ""
 WARNING: couldn't parse '' as number for key 'angle'
 WARNING: couldn't parse '' as number for key 'angle'
 WARNING: couldn't parse '' as number for key 'angle'
@@ -73,32 +84,34 @@ WARNING: couldn't parse '' as number for key 'angle'
 WARNING: couldn't parse '' as number for key 'angle'
 WARNING: couldn't parse '' as number for key 'angle'
 WARNING: couldn't parse '' as number for key 'angle'
-126 entities read, 87 are lights.
+WARNING: couldn't parse '' as number for key 'angle'
+WARNING: couldn't parse '' as number for key 'angle'
+133 entities read, 98 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	1511 solid faces
+	2225 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 87 initial lights
-SetupLights: 87 after surface lights
-SetupLights: 87 after jittering
+SetupLights: 98 initial lights
+SetupLights: 98 after surface lights
+SetupLights: 98 after jittering
 WARNING: couldn't nudge light in solid at 572.000000 60.000000 28.000000
 WARNING: couldn't nudge light in solid at 4.000000 -316.000000 28.000000
 --- EstimateLightVisibility ---
 0....1....2....3....4....5....6....7....8....9....
-Final count: 87 lights 0 suns in use.
+Final count: 98 lights 0 suns in use.
 --- LightWorld ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 43630
+lightdatasize: 52356
 0 switchable light styles (32 max)
 Writing Chaos.bsp as BSP version 29
-0.175 seconds elapsed
+0.213 seconds elapsed
 
 stats:
-4.860389 lights tested, 2.572668 hits per sample point
+4.828923 lights tested, 2.747672 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps

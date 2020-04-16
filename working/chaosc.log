@@ -1,0 +1,86 @@
+---- qbsp / ericw-tools v0.18.1 ----
+Input file: chaosc.map
+Output file: chaosc.bsp
+
+---- LoadMapFile ----
+         1796 faces
+          289 brushes
+           69 entities
+            7 unique texnames
+          438 texinfo
+
+Opened WAD: C:/Users/lukea/Desktop/Quake-Multiplayer-Level/wads/START.WAD
+Opened WAD: C:/Users/lukea/Desktop/Quake-Multiplayer-Level/wads/prototype_1_2.wad
+Processing hull 0...
+---- Brush_LoadEntity ----
+          281 brushes
+          436 planes
+---- CSGFaces ----
+         1748 brushfaces
+         2970 csgfaces
+         2280 mergedfaces
+---- SolidBSP ----
+         2630 split nodes
+         1116 solid leafs
+         1459 empty leafs
+           56 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         5702 leaffaces
+         4828 nodefaces
+---- Portalize ----
+         1515 vis leafs
+         1515 vis clusters
+         4111 vis portals
+---- FillOutside ----
+          899 outleafs
+---- MergeAll ----
+         1488 mergefaces
+---- SolidBSP ----
+          691 split nodes
+          336 solid leafs
+          295 empty leafs
+           61 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         2560 leaffaces
+         1695 nodefaces
+---- Portalize ----
+          356 vis leafs
+          356 vis clusters
+          763 vis portals
+---- Tjunc ----
+         1689 world edges
+         5683 edge points
+         1608 edges added by tjunctions
+            0 faces added by tjunctions
+---- MakeFaceEdges ----
+---- GrowRegions ----
+Processing hull 1...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+*** WARNING 19: No entities in empty space -- no filling performed (hull 2)
+*** WARNING 16: Texture __TB_empty not found
+---- WriteBSPFile ----
+Wrote chaosc.bsp
+          872 planes            17440
+         2114 vertexes          25368
+          691 nodes             16584
+          227 texinfo            9080
+         1695 faces             33900
+         5226 clipnodes         41808
+          357 leafs              9996
+         2560 marksurfaces       5120
+         8020 surfedges         32080
+         4015 edges             16060
+            7 textures          98192
+              lightdata             0
+              visdata               0
+              entdata            4728
+
+0.299 seconds elapsed
+Peak memory usage: 19656928 (18.7M)
