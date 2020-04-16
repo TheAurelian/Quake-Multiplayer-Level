@@ -3,60 +3,60 @@ Input file: Chaos.map
 Output file: Chaos.bsp
 
 ---- LoadMapFile ----
-         2306 faces
-          358 brushes
+         2268 faces
+          351 brushes
           133 entities
-            7 unique texnames
-          611 texinfo
+           14 unique texnames
+          759 texinfo
 
 Opened WAD: C:/Users/lukea/Desktop/Quake-Multiplayer-Level/wads/START.WAD
 Opened WAD: C:/Users/lukea/Desktop/Quake-Multiplayer-Level/wads/prototype_1_2.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          344 brushes
-          692 planes
+          337 brushes
+          688 planes
 ---- CSGFaces ----
-         2222 brushfaces
-         3997 csgfaces
-         3026 mergedfaces
+         2184 brushfaces
+         3984 csgfaces
+         3033 mergedfaces
 ---- SolidBSP ----
-         3527 split nodes
-         1476 solid leafs
-         1984 empty leafs
+         3539 split nodes
+         1482 solid leafs
+         1990 empty leafs
            68 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         7404 leaffaces
-         6320 nodefaces
+         7364 leaffaces
+         6306 nodefaces
 ---- Portalize ----
-         2052 vis leafs
-         2052 vis clusters
-         5982 vis portals
+         2058 vis leafs
+         2058 vis clusters
+         6021 vis portals
 ---- FillOutside ----
-         1091 outleafs
+          297 outleafs
 ---- MergeAll ----
-         2134 mergefaces
+         3089 mergefaces
 ---- SolidBSP ----
-         1056 split nodes
-          460 solid leafs
-          531 empty leafs
-           66 water leafs
+         1652 split nodes
+          647 solid leafs
+          941 empty leafs
+           65 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         3694 leaffaces
-         2409 nodefaces
+         5311 leaffaces
+         3778 nodefaces
 ---- Portalize ----
-          597 vis leafs
-          597 vis clusters
-         1793 vis portals
+         1006 vis leafs
+         1006 vis clusters
+         3194 vis portals
 ---- Tjunc ----
-         2532 world edges
-         8341 edge points
-         2280 edges added by tjunctions
+         3563 world edges
+        12930 edge points
+         3424 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -65,20 +65,20 @@ Processing hull 2...
 *** WARNING 16: Texture __TB_empty not found
 ---- WriteBSPFile ----
 Wrote Chaos.bsp
-         1274 planes            25480
-         3130 vertexes          37560
-         1056 nodes             25344
-          355 texinfo           14200
-         2409 faces             48180
-         2277 clipnodes         18216
-          598 leafs             16744
-         3694 marksurfaces       7388
-        11562 surfedges         46248
-         5782 edges             23128
-            7 textures          98192
+         1324 planes            26480
+         4905 vertexes          58860
+         1652 nodes             39648
+          545 texinfo           21800
+         3778 faces             75560
+         2368 clipnodes         18944
+         1007 leafs             28196
+         5311 marksurfaces      10622
+        18173 surfedges         72692
+         9089 edges             36356
+           14 textures         141956
               lightdata             0
               visdata               0
               entdata           10327
 
-0.441 seconds elapsed
-Peak memory usage: 24261960 (23.1M)
+0.483 seconds elapsed
+Peak memory usage: 26949870 (25.7M)

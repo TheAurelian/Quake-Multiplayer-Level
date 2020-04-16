@@ -91,7 +91,7 @@ WARNING: couldn't parse '' as number for key 'angle'
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	2225 solid faces
+	3626 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 98 initial lights
@@ -106,12 +106,12 @@ Final count: 98 lights 0 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 52356
+lightdatasize: 53520
 0 switchable light styles (32 max)
 Writing Chaos.bsp as BSP version 29
-0.213 seconds elapsed
+0.305 seconds elapsed
 
 stats:
-4.828923 lights tested, 2.747672 hits per sample point
+2.196840 lights tested, 1.051594 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
