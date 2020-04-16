@@ -3,15 +3,15 @@ running with 8 threads
 testlevel = 4
 LoadBSPFile: 'Chaos.bsp'
 BSP is version 29
-  1006 leafs
-  3194 portals
+   997 leafs
+  3160 portals
 Calculating Base Vis:
 0....1....2....3....4....5....6....7....8....9....
 Calculating Full Vis:
 0....1....2....3....4....5....6....7....8....9....
-average leafs visible: 145
+average leafs visible: 143
 c_noclip: 0
-c_chains: 5245292
-visdatasize:67253  compressed from 126756
+c_chains: 5100622
+visdatasize:66499  compressed from 124625
 Writing Chaos.bsp as BSP version 29
-  2.1 seconds elapsed
+  2.3 seconds elapsed
