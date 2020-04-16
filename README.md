@@ -1,7 +1,10 @@
 # Column Chaos
 Filename: columnchaos.bsp
+
 Release: April 16th, 2020
+
 Author: Luke McPherson
+
 Location: https://github.com/TheAurelian/Quake-Multiplayer-Level
 
 Competitive free-for-all multiplayer level for 2-4 players for Quake.
